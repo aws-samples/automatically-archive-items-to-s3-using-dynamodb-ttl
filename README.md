@@ -1,5 +1,7 @@
 # Archive items to S3 using DynamoDB TLL
 
+
+
 Automatically archive items to Amazon S3 using Amazon DynamoDB TTL, AWS Lambda, and Amazon Kinesis Data Firehose
 
 This code is related to the following APG and it is an addition/supplemnet to the instruction in the APG to implement the solution: https://apg-library.amazonaws.com/content-viewer/author/9dbc833f-cf3c-4574-8f09-d0b81134fe41
