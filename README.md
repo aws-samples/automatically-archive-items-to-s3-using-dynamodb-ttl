@@ -2,7 +2,7 @@
 
 Automatically archive items to Amazon S3 using Amazon DynamoDB TTL, AWS Lambda, and Amazon Kinesis Data Firehose
 
-This code is related to the following APG and it is an addition to the instruction in APG to implement the solution: https://apg-library.amazonaws.com/content-viewer/author/9dbc833f-cf3c-4574-8f09-d0b81134fe41
+This code is related to the following APG and it is an addition/supplemnet to the instruction in the APG to implement the solution: https://apg-library.amazonaws.com/content-viewer/author/9dbc833f-cf3c-4574-8f09-d0b81134fe41
 
 This pattern provides steps to remove older data from an Amazon DynamoDB table and archive it to Amazon S3 bucket without having to manage a fleet of servers. 
 
